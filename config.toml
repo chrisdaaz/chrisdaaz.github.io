@@ -4,7 +4,7 @@ title = "Chris Diaz"
 theme = "minimal"
 disqusShortname = "chrisdaaz"
 googleAnalytics = "UA-113898364-1"
-publishDir = "docs"
+publishDir = "public"
 
 [params]
     author = "Chris Diaz"
