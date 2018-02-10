@@ -1,21 +1,21 @@
-baseURL = "http://example.com/"
+baseURL = "http://chrisdaaz.github.io/"
 languageCode = "en-us"
 title = "Chris Diaz"
 theme = "minimal"
-# disqusShortname = "username" # delete this to disable disqus comments
-# googleAnalytics = ""
+disqusShortname = "chrisdaaz" 
+googleAnalytics = "UA-113898364-1"
 
 [params]
     author = "Chris Diaz"
     description = "libraries, digital scholarship, open source"
     githubUsername = "chrisdaaz"
-    accent = "gray"
+    accent = "navy"
     showBorder = true
     backgroundColor = "white"
     font = "Ropa Sans" # should match the name on Google Fonts!
     highlight = true
-    highlightStyle = "solarized-dark"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    highlightStyle = "tomorrow-night-bright"
+    highlightLanguages = ["html", "css", "scss", "javascript", "xml", "yaml", "markdown"]
 
 [[menu.main]]
     url = "/"
