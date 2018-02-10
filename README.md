@@ -1,2 +1,2 @@
 # chrisdaaz
-Personal blog built with Hugo and the Minimal theme.
+Source files for personal blog on github pages.
