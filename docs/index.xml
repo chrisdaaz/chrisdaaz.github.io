@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Diaz</title>
+    <link>http://chrisdaaz.github.io/</link>
+    <description>Recent content on Chris Diaz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://chrisdaaz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CV</title>
+      <link>http://chrisdaaz.github.io/cv/</link>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://chrisdaaz.github.io/cv/</guid>
+      <description>Employment  Digital Publishing Librarian, Northwestern University, 2017 - Present Collections Management Librarian, National Louis University, 2014-2017 Residency Librarian, Scholarly Communications and Collections, University of Iowa, 2013-2014 Graduate Assistant, Undergraduate Library, University of Illinois at Urbana-Champaign, 2011-2013  Publications  Diaz, C. (Ed.). (2017). Textbooks in academic libraries: Selection, circulation, and assessment. (ALCTS Monographs). Chicago, IL: ALA Editions.
+ Diaz, C. (Ed.). (2017). Affordable course materials: electronic textbooks and open educational resources.</description>
+    </item>
+    
+  </channel>
+</rss>

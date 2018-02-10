@@ -2,8 +2,9 @@ baseURL = "http://chrisdaaz.github.io/"
 languageCode = "en-us"
 title = "Chris Diaz"
 theme = "minimal"
-disqusShortname = "chrisdaaz" 
+disqusShortname = "chrisdaaz"
 googleAnalytics = "UA-113898364-1"
+publishDir = "docs"
 
 [params]
     author = "Chris Diaz"
