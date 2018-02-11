@@ -16,6 +16,10 @@ main {
     max-width: 750px;
 }
 
+li {
+  font-size: 1.25em;
+}
+
 /*footer*/
 
 .copyright {
@@ -30,12 +34,12 @@ main {
 
 .intro > h1 {
     color: #212121;
-    font-size: 15vh;
+    font-size: 13vh;
 }
 
 .intro > h2 {
     color: #757575;
-    font-size: 5vmin;
+    font-size: 4vmin;
 }
 
 .intro > .profile {
