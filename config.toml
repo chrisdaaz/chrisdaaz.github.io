@@ -28,10 +28,10 @@ publishDir = "public"
     name = "CV"
     weight = 2
 
-# [[menu.main]]
-#    url = "/posts/"
-#    name = "Posts"
-#    weight = 3
+ [[menu.main]]
+    url = "/posts/"
+    name = "Posts"
+    weight = 3
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
@@ -51,3 +51,13 @@ publishDir = "public"
     url = "https://twitter.com/chrisdaaz/"
     name = "twitter"
     weight = 3
+
+[[menu.icon]]
+    url = "http://open.spotify.com/user/chris.diaz26"
+    name = "spotify"
+    weight = 4
+
+[[menu.icon]]
+    url = "https://www.instagram.com/chrisdaaz/"
+    name = "instagram"
+    weight = 5
