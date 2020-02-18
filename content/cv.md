@@ -14,6 +14,8 @@ disableComments: true
 
 ## Publications
 
+- Diaz, C. (2018). [Using static site generators for scholarly publications and open educational resources](https://journal.code4lib.org/articles/13861). _Code4Lib Journal_, 42.
+
 - Diaz, C. (Ed.). (2017). [_Textbooks in academic libraries: Selection, circulation, and assessment_](https://www.alastore.ala.org/content/textbooks-academic-libraries-selection-circulation-and-assessment-alcts-monograph). (ALCTS Monographs). Chicago, IL: ALA Editions.
 
 - Diaz, C. (Ed.). (2017). [_Affordable course materials: electronic textbooks and open educational resources_](https://www.alastore.ala.org/content/affordable-course-materials-electronic-textbooks-and-open-educational-resources-alcts). Chicago, IL: ALA Editions.
@@ -27,6 +29,12 @@ disableComments: true
 - Diaz, C. (2012). [Academic Library Services to Distance Learners: In Consideration of Costs, Technology, and Stability](https://academicworks.cuny.edu/ulj/vol18/iss1/2), _Urban Library Journal_, 18(1).
 
 ## Presentations
+
+- Diaz, C. (2019, April). "Publishing with Static Site Generators," _Library Publishing Forum_, Vancouver, CA. 
+
+- Diaz, C. (2018, October). "Digital Publishing and Samvera," _Samvera Connect_, Salt Lake City, UT.
+
+- Diaz, C. (2018, June). "[Jekyll and Institutional Repositories](https://doi.org/10.21985/N28X22)," _Open Repositories_, Bozeman, MT.
 
 - Chernaik, A., Diaz, C., & Shelley, A. (2018, January). "[Basics and Best Practices for Promoting OER on Campus](https://www.youtube.com/watch?v=_QOiSlGqslM)," a webinar presented on behalf of the Open Educational Resources Task Force of the Consortium of Academic and Research Libraries in Illinois ([CARLI](https://www.carli.illinois.edu/)).
 
