@@ -1,7 +1,7 @@
 ---
 title: "CV"
 url: "/cv/"
-date: 2018-02-08
+date: 2020-02-18
 draft: false
 disableComments: true
 ---
