@@ -30,6 +30,8 @@ disableComments: true
 
 ## Presentations
 
+- Diaz, C. (2019, November). "Minimal Computing with Progressive Web Apps: An Introduction and Case Study," _Chicago Code4Lib Fall Meeting_, Evanston, IL.
+
 - Diaz, C. (2019, April). "Publishing with Static Site Generators," _Library Publishing Forum_, Vancouver, CA. 
 
 - Diaz, C. (2018, October). "Digital Publishing and Samvera," _Samvera Connect_, Salt Lake City, UT.
