@@ -1,2 +1,1 @@
-# chrisdaaz
-Source files for personal blog on netlify.
+Source files for personal website.
