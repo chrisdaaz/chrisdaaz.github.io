@@ -1,9 +1,7 @@
-baseURL = "https://chrisdaaz.netlify.com/"
+baseURL = "https://chrisdaaz.github.io/"
 languageCode = "en-us"
 title = "Chris Diaz"
 theme = "minimal"
-disqusShortname = "chrisdaaz"
-googleAnalytics = "UA-113898364-1"
 publishDir = "public"
 
 [params]
